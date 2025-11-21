@@ -8,7 +8,7 @@
 
 namespace Common
 {
-#define VERSION_STR "ILPM v3.7.5 PSSFINALE"
+#define VERSION_STR "ILPM v3.8.0 DST ISHII"
 #ifdef _DEBUG
 #define BUILD_TYPE_STR "Debug "
 #elif defined DEBUGFAST
